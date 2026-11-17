@@ -20,7 +20,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,git,figma,vscode&perline=7" />
 </p>
 
 ---
