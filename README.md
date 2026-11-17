@@ -1,5 +1,5 @@
 #<h1 align="center">Olá, eu sou o Vitor Hugo Rodrigues Robles</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Estudante de TI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Ponta%20Grossa%2C%20PR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -60,8 +60,4 @@
   <a href="https://wa.me/5542991370857" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Código sem IA é coisa do passado." 🦕</i>
 </p>
