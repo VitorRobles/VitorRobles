@@ -1,10 +1,10 @@
 #<h1 align="center">Olá, eu sou o Vitor Hugo Rodrigues Robles</h1>
-<h3 align="center">Desenvolvedor Full Stack | Apaixonado por tecnologia e código limpo</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Curitiba-PR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Disponível%20para-Freelas-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Ponta%20Grossa%2C%20PR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Freelas-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VitorRobles?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <i>"Código é poesia." ✨</i>
+  <i>"Código sem IA é coisa do passado." 🦕</i>
 </p>
