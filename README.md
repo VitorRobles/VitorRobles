@@ -1,4 +1,4 @@
-#<h1 align="center">Olá, eu sou o João Silva 👋</h1>
+#<h1 align="center">Olá, eu sou o Vitor Hugo Rodrigues Robles</h1>
 <h3 align="center">Desenvolvedor Full Stack | Apaixonado por tecnologia e código limpo</h3>
 
 <p align="center">
@@ -11,18 +11,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **Nome do Projeto**
-- 🌱 Estudando **Docker, AWS e Arquitetura de Software**
-- 💬 Pergunte-me sobre **JavaScript, Python e APIs REST**
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **Nome da Instituição**
-- ⚡ Curiosidade: **sou viciado em café e jogos de estratégia**
+- 🔭 Atualmente trabalhando no projeto **VirtualPaddock**
+- 🌱 Estudando **Java, MySQL, UML**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no **Senac Paraná**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind,git,docker,postgres,mongodb,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,figma,vscode&perline=7" />
 </p>
 
 ---
@@ -30,12 +28,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorRobles&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRobles&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRobles&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -44,7 +42,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**Nome do Projeto 1**](https://github.com/SEU-USUARIO/projeto-1) | Sistema de gerenciamento de tarefas com autenticação | React, Node.js, MongoDB |
+| [**VirtualPaddock**](https://github.com/VitorRobles/projeto-1) | Sistema de gerenciamento de campeonatos Sim-Racing | Java, MySQL(Futuramente será alterado para NoSQL) |
 | [**Nome do Projeto 2**](https://github.com/SEU-USUARIO/projeto-2) | API REST para e-commerce com pagamentos | Python, FastAPI, PostgreSQL |
 | [**Nome do Projeto 3**](https://github.com/SEU-USUARIO/projeto-3) | Dashboard de análise de dados em tempo real | TypeScript, Next.js, Tailwind |
 
@@ -53,16 +51,13 @@
 ## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-hugo-rodrigues-robles-035927433" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:vitorhugorobles@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5541999999999" target="_blank">
+  <a href="https://wa.me/5542991370857" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
